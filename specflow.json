@@ -1,0 +1,22 @@
+{
+  "language": {
+    "feature": "en"
+  },
+  "bindingCulture": {
+    "language": "en"
+  },
+  "plugins": [
+    {
+      "name": "SpecFlow.Plus.LivingDoc",
+      "type": "Generator"
+    }
+  ],
+  "runtime": {
+    "stopAtFirstError": false,
+    "missingOrPendingStepsOutcome": "Inconclusive"
+  },
+  "generator": {
+    "allowDebugGeneratedFiles": true,
+    "path": "Features"
+  }
+}
