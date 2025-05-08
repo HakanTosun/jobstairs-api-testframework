@@ -1,0 +1,13 @@
+bin/
+obj/
+.vscode/
+*.user
+*.suo
+*.log
+*.DS_Store
+*.vs
+*.swp
+TestResults/
+*.trx
+LivingDoc.html
+TestExecution.json
